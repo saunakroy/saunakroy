@@ -2,8 +2,11 @@
 
 My name is Saunak Roy, and I'm a current undergraduate student at the University of Maryland: College Park studying Computer Science and Mathematics. Here are some of the projects I've worked on or are currently developing:
 
+* Using diffusion models for medical image segmentation and reconstruction
 * Brain tumor classification from MRI scans using custom CNN architecture
-* Full-stack Health Self-Diagnosing Web App
+* Full-stack Health Self-Diagnosing Web Application
+* Analyzing US wealth disparities across sociodemographics using data analysis/ML techniques
+* Generating n-ary mathematical trees (symmetric, stochastic, etc.) on smooth 2D manifolds
 <!--
 **saunakroy/saunakroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
